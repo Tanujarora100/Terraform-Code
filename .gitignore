@@ -1,0 +1,4 @@
+/Users/tanujarora/Desktop/Coding/Terraform/sqs/terraform.tfvars
+.terraform/*
+*.tfstate
+.terraform.tfvars
